@@ -9,7 +9,7 @@ A small library providing utility methods to `translate` the given array into a 
 
 ## Usage
 
-  var trend = require('scapegoat');
+  var trend = require('trend');
 
   var arr = [1,2,3];
 trend.translate(arr).then(result => {
